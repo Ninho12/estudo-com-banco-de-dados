@@ -3,24 +3,11 @@
 ## Descrição
 Um repositório para eu aprender o fundamental de banco de dados SQL e NOSQL. 
 
-### SQL com Mysql
+## SQL
+Eu criei um arquivo comando-iniciais para eu guardar comandos iniciais sql
+para eu não me esquecer dos princiapais comandos sql.
 
-vou adicionar aqui os comandos basicos do SQL:
+## NOSQL
+Eu criei um arquivo comando-nosql para eu guardar os comandos mais importantes dos bancos de dados NoSql.
 
-#### Criação de Banco:
-> Create Database Paroquia;
-
-#### Criação de Tabela
-> Create Table Dizimistas(
->   id Integer not null primary key auto increment,
->   nome String not null,
->   sobrenome String not null,
->   sexo String not null,
->   email String not null,
->   senha String not null,
->   data_de_nascimento Date,
->   id_de_comunidade Integer not null,
->   id_de_paroquia Integer not null,
->   id_de_diocese Integer not null
-> );
-
+É isso.
